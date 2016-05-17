@@ -4,11 +4,11 @@ Coursera Course: Developing Data Products
 
 Instructions
 
-1. View the shiny app created on Simple Interest Project at https://shantishakya.shinyapps.io/SimpleInterestProj/
+1. View the shiny app created on Simple Interest Project at https://sabincs.shinyapps.io/simpleinterest/
 
 2. Source code for ui.R and server.R files are available on the GitHub:
-https://github.com/shantishakya/SimpleInterestShinyApp
+https://github.com/scshrestha/SimpleInterestShinyApp
 
 3. The presentation is available at:
-http://shantishakya.github.io/SimpleInterestShinyApp/index
+http://scshrestha.github.io/SimpleInterestShinyApp/index
 

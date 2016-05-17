@@ -10,5 +10,5 @@ Instructions
 https://github.com/scshrestha/SimpleInterestShinyApp
 
 3. The presentation is available at:
-http://scshrestha.github.io/SimpleInterestShinyApp/index
+http://scshrestha.github.io
 
